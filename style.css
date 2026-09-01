@@ -17,6 +17,7 @@ body {
 h2 {
     color: #2d081c;
     font-family: "MV Boli", sans-serif;
+    font-size: 24px;
 }
 .TaskButtons {
     background-color: #FFB4A2;
