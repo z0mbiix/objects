@@ -1,6 +1,24 @@
 body {
-    background-color: #dca2dc;
-    color: #25082d;
+    background-color: #ffedf4;
+    color: #2d081c;
     font-family: "MV Boli", sans-serif;
     padding: 20px;
+}
+
+a nav {
+    background-color: #FFCDB2;
+    color: #2d081c;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #FFB4A2;
+}
+
+a TaskButtons {
+    background-color: #FFB4A2;
+    color: #2d081c;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #E5989B;
 }
