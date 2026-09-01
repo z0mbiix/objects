@@ -5,7 +5,7 @@ body {
     padding: 20px;
 }
 
-a nav {
+.nav {
     background-color: #FFCDB2;
     color: #2d081c;
     padding: 10px;
@@ -14,7 +14,7 @@ a nav {
     border: 1px solid #FFB4A2;
 }
 
-a TaskButtons {
+.TaskButtons {
     background-color: #FFB4A2;
     color: #2d081c;
     padding: 10px;
