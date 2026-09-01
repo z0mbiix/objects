@@ -1,5 +1,5 @@
 body {
-    background-color: #ffedf4;
+    background-color: #ffeae3;
     color: #2d081c;
     font-family: "MV Boli", sans-serif;
     padding: 20px;
@@ -9,21 +9,88 @@ body {
     background-color: #FFCDB2;
     color: #2d081c;
     padding: 10px;
-    text-decoration: none;
     border-radius: 5px;
     border: 1px solid #FFB4A2;
     width: 100%;
+    display: flex;
+    justify-content: space-between
 }
 h2 {
     color: #2d081c;
     font-family: "MV Boli", sans-serif;
     font-size: 24px;
+    padding: 10px;
 }
-.TaskButtons {
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.ButtonA {
     background-color: #FFB4A2;
     color: #2d081c;
     padding: 10px;
+    text-align: center;
     text-decoration: none;
     border-radius: 5px;
     border: 1px solid #E5989B;
+    width: 50px;
+    font-size: 25px;
+}
+.ButtonA:hover {
+    background-color: #E5989B;
+    color: #2d081c;
+    cursor: pointer;
+}
+
+.ButtonB {
+    background-color: #FFB4A2;
+    color: #2d081c;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #E5989B;
+    width: 50px;
+    font-size: 25px;
+}
+.ButtonB:hover {
+    background-color: #E5989B;
+    color: #2d081c;
+    cursor: pointer;
+}
+
+.ButtonC {
+    background-color: #FFB4A2;
+    color: #2d081c;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #E5989B;
+    width: 50px;
+    font-size: 25px;
+}
+.ButtonC:hover {
+    background-color: #E5989B;
+    color: #2d081c;
+    cursor: pointer;
+}
+
+.ButtonD {
+    background-color: #FFB4A2;
+    color: #2d081c;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #E5989B;
+    width: 50px;
+    font-size: 25px;
+}
+.ButtonD:hover {
+    background-color: #E5989B;
+    color: #2d081c;
+    cursor: pointer;
 }
