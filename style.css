@@ -12,6 +12,7 @@ body {
     text-decoration: none;
     border-radius: 5px;
     border: 1px solid #FFB4A2;
+    width: 100%;
 }
 
 .TaskButtons {
